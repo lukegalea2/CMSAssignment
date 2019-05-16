@@ -1,0 +1,277 @@
+0000.002 (0) Opened log file at time: Tue, 07 May 2019 12:15:54 +0000 on http://localhost/CMSAssignment/wordpress
+0000.022 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.14 WP: 5.1.1 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-TCAVO60 10.0 build 17134 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: en_US Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 84M | 84.5M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.027 (0) Free space on disk containing Updraft's temporary directory: 267969.6 MB
+0000.055 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.069 (0) Semaphore (fd, wp_options) being initialised
+0000.102 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.156 (0) Set semaphore last lock (fd) time to 2019-05-07 12:15:54
+0000.161 (0) Semaphore lock (fd) complete
+0000.201 (0) Backup run: resumption=0, nonce=6ded1b5424fe, file_nonce=6ded1b5424fe begun at=1557231354 (0s ago), job type=backup
+0000.212 (0) Scheduling a resumption (1) after 300 seconds (1557231654) in case this run gets aborted
+0000.243 (0) Checking if we have a zip executable available
+0000.257 (0) Creation of backups of directories: beginning
+0000.286 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0016.695 (0) Total entities for the zip file: 558 directories, 3642 files (0 skipped as non-modified), 76.9 MB
+0016.721 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0016.973 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 100 files added (on-disk size: 94.1 KB)
+0017.271 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 200 files added (on-disk size: 94.1 KB)
+0017.554 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 300 files added (on-disk size: 94.1 KB)
+0017.854 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 400 files added (on-disk size: 94.1 KB)
+0018.160 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 500 files added (on-disk size: 94.1 KB)
+0018.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.2 MB, 3642 files batched, 501 (502) added so far); re-opening (prior size: 94.1 KB)
+0022.633 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 600 files added (on-disk size: 2830.4 KB)
+0022.996 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 700 files added (on-disk size: 2830.4 KB)
+0023.385 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 800 files added (on-disk size: 2830.4 KB)
+0023.775 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 900 files added (on-disk size: 2830.4 KB)
+0024.061 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1000 files added (on-disk size: 2830.4 KB)
+0024.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.7 MB, 3642 files batched, 501 (1003) added so far); re-opening (prior size: 2830.4 KB)
+0027.966 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1100 files added (on-disk size: 5212.5 KB)
+0028.230 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1200 files added (on-disk size: 5212.5 KB)
+0028.524 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1300 files added (on-disk size: 5212.5 KB)
+0029.034 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1400 files added (on-disk size: 5212.5 KB)
+0029.519 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1500 files added (on-disk size: 5212.5 KB)
+0029.541 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.4 MB, 3642 files batched, 501 (1504) added so far); re-opening (prior size: 5212.5 KB)
+0031.833 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1600 files added (on-disk size: 9940.5 KB)
+0032.239 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1700 files added (on-disk size: 9940.5 KB)
+0032.781 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1800 files added (on-disk size: 9940.5 KB)
+0033.490 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 1900 files added (on-disk size: 9940.5 KB)
+0033.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 431 (1935) files added so far); re-opening (prior size: 9940.5 KB)
+0034.774 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2000 files added (on-disk size: 10591.8 KB)
+0035.529 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2100 files added (on-disk size: 10591.8 KB)
+0036.138 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2200 files added (on-disk size: 10591.8 KB)
+0036.823 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 MB, 361 (2296) files added so far); re-opening (prior size: 10591.8 KB)
+0039.186 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2300 files added (on-disk size: 11391.7 KB)
+0039.759 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2400 files added (on-disk size: 11391.7 KB)
+0040.179 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2500 files added (on-disk size: 11391.7 KB)
+0040.461 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 3642 files batched, 268 (2564) added so far); re-opening (prior size: 11391.7 KB)
+0046.010 (0) A useful amount of data was added after this amount of zip processing: 7.3 s (normalised: 7.2 s, rate: 3544.3 KB/s)
+0046.211 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2600 files added (on-disk size: 16129.2 KB)
+0046.612 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2700 files added (on-disk size: 16129.2 KB)
+0047.029 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2800 files added (on-disk size: 16129.2 KB)
+0047.557 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 2900 files added (on-disk size: 16129.2 KB)
+0047.997 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3000 files added (on-disk size: 16129.2 KB)
+0048.403 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 3642 files batched, 501 (3065) added so far); re-opening (prior size: 16129.2 KB)
+0053.953 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3100 files added (on-disk size: 17596.3 KB)
+0054.474 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3200 files added (on-disk size: 17596.3 KB)
+0054.824 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3300 files added (on-disk size: 17596.3 KB)
+0055.326 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3400 files added (on-disk size: 17596.3 KB)
+0055.740 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3500 files added (on-disk size: 17596.3 KB)
+0056.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 3642 files batched, 501 (3566) added so far); re-opening (prior size: 17596.3 KB)
+0060.727 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip.tmp: 3600 files added (on-disk size: 20397 KB)
+0062.385 (0) Created plugins zip (0) - 20743.1 KB in 62.1 s (334.1 KB/s) (sha1: 659c3fc23173e8ad0178877d153fde7857c1c767, sha256: 22ea21398e2fb2bac84fef9e4e60f8f96ea61c614037c5a5a689aae8a59a666f)
+0062.411 (0) Beginning creation of dump of themes (split every: 400 MB)
+0075.213 (0) Total entities for the zip file: 339 directories, 1398 files (0 skipped as non-modified), 25.1 MB
+0075.287 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0075.630 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 100 files added (on-disk size: 52.6 KB)
+0076.026 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 200 files added (on-disk size: 52.6 KB)
+0076.530 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 300 files added (on-disk size: 52.6 KB)
+0076.828 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 400 files added (on-disk size: 52.6 KB)
+0077.306 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 500 files added (on-disk size: 52.6 KB)
+0077.324 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 MB, 1398 files batched, 501 (502) added so far); re-opening (prior size: 52.6 KB)
+0085.253 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 600 files added (on-disk size: 2771.9 KB)
+0085.765 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 700 files added (on-disk size: 2771.9 KB)
+0086.206 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 800 files added (on-disk size: 2771.9 KB)
+0086.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.4 MB, 372 (874) files added so far); re-opening (prior size: 2771.9 KB)
+0097.418 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 900 files added (on-disk size: 5758.8 KB)
+0097.840 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 1000 files added (on-disk size: 5758.8 KB)
+0098.582 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 1100 files added (on-disk size: 5758.8 KB)
+0099.107 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 1200 files added (on-disk size: 5758.8 KB)
+0099.606 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip.tmp: 1300 files added (on-disk size: 5758.8 KB)
+0099.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.5 MB, 456 (1330) files added so far); re-opening (prior size: 5758.8 KB)
+0107.954 (0) Created themes zip (0) - 11659.7 KB in 45.5 s (256.1 KB/s) (sha1: 31e3c3c815cf2e123ebb71593d8286660ca240f5, sha256: 871559f3ee52d8b1c3bf5dfeaea95149de4a5d90e62a26293fe0d446d7f1c312)
+0107.974 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0107.985 (0) Looking for candidates to backup in: C:\wamp64\www\CMSAssignment\wordpress/wp-content/uploads
+0107.992 (0) finding files: 2017: adding to list (1)
+0107.999 (0) finding files: 2018: adding to list (2)
+0108.007 (0) finding files: 2019: adding to list (3)
+0108.016 (0) finding files: astra-sites: adding to list (4)
+0108.022 (0) finding files: elementor: adding to list (5)
+0108.028 (0) finding files: GeoLite2-Country.mmdb: adding to list (6)
+0108.034 (0) finding files: ultimatemember: adding to list (7)
+0108.041 (0) finding files: wc-logs: adding to list (8)
+0108.048 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (9)
+0108.059 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+0108.065 (0) finding files: woocommerce-placeholder-300x295.png: adding to list (11)
+0108.075 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (12)
+0108.093 (0) finding files: woocommerce-placeholder.png: adding to list (13)
+0108.107 (0) finding files: woocommerce_uploads: adding to list (14)
+0108.114 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0111.434 (0) Total entities for the zip file: 15 directories, 1068 files (0 skipped as non-modified), 41.4 MB
+0111.442 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0111.644 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 100 files added (on-disk size: 5.8 KB)
+0111.797 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 200 files added (on-disk size: 5.8 KB)
+0111.929 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 300 files added (on-disk size: 5.8 KB)
+0112.073 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 400 files added (on-disk size: 5.8 KB)
+0112.210 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 500 files added (on-disk size: 5.8 KB)
+0112.219 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.5 MB, 1068 files batched, 501 (502) added so far); re-opening (prior size: 5.8 KB)
+0122.340 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 600 files added (on-disk size: 13615.3 KB)
+0122.590 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 700 files added (on-disk size: 13615.3 KB)
+0122.790 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 800 files added (on-disk size: 13615.3 KB)
+0123.016 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 900 files added (on-disk size: 13615.3 KB)
+0123.205 (0) Zip: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip.tmp: 1000 files added (on-disk size: 13615.3 KB)
+0123.216 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (22.2 MB, 1068 files batched, 501 (1003) added so far); re-opening (prior size: 13615.3 KB)
+0149.617 (0) Created uploads zip (0) - 38544.2 KB in 41.5 s (929.1 KB/s) (sha1: 019c7bb10297edbde79b981449f868efc2ff6deb, sha256: 6c2a78cb77ec0aa7c4ff0b9afd4227420fa396a863c7f99e3e61e7f2a0139e08)
+0149.634 (0) Beginning backup of other directories found in the content directory (index: 0)
+0149.647 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0149.655 (0) Looking for candidates to backup in: C:\wamp64\www\CMSAssignment\wordpress/wp-content
+0149.661 (0) finding files: index.php: adding to list (1)
+0149.667 (0) finding files: languages: adding to list (2)
+0149.673 (0) finding files: plugins: skipping: this is the plugins directory
+0149.678 (0) finding files: themes: skipping: this is the themes directory
+0149.684 (0) finding files: updraft: skipping: this is the updraft directory
+0149.689 (0) finding files: upgrade: skipping: excluded by options
+0149.695 (0) finding files: uploads: skipping: this is the uploads directory
+0149.757 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0149.797 (0) Created others zip (0) - 0.3 KB in 0.1 s (3.8 KB/s) (sha1: 3d90fb765102c8ecc33dd756b2566be347629a59, sha256: 49b6622a945874de0daf33e61c4b6cc1d0ea017cb3ddecff25e895d9f026349a)
+0149.840 (0) Saving backup status to database (elements: 8)
+0149.865 (0) Beginning creation of database dump (WordPress DB)
+0150.494 (0) Table wp_options: Total expected rows (approximate): 437
+0150.795 (0) Table wp_options: Total rows added: 433 in 0.29 seconds
+0150.801 (0) Table wp_options: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_options.table.gz - 217.1 KB)
+0150.826 (0) Table wp_users: Total expected rows (approximate): 1
+0150.847 (0) Table wp_users: Total rows added: 1 in 0.02 seconds
+0150.853 (0) Table wp_users: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_users.table.gz - 0.5 KB)
+0150.877 (0) Table wp_usermeta: Total expected rows (approximate): 35
+0150.900 (0) Table wp_usermeta: Total rows added: 35 in 0.02 seconds
+0150.906 (0) Table wp_usermeta: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_usermeta.table.gz - 1.5 KB)
+0150.931 (0) Table wp_commentmeta: Total expected rows (approximate): 53
+0150.956 (0) Table wp_commentmeta: Total rows added: 53 in 0.02 seconds
+0150.962 (0) Table wp_commentmeta: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_commentmeta.table.gz - 0.7 KB)
+0150.988 (0) Table wp_comments: Total expected rows (approximate): 37
+0151.021 (0) Table wp_comments: Total rows added: 37 in 0.03 seconds
+0151.030 (0) Table wp_comments: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_comments.table.gz - 2.1 KB)
+0151.109 (0) Table wp_links: Total expected rows (approximate): 0
+0151.141 (0) Table wp_links: Total rows added: 0 in 0.02 seconds
+0151.154 (0) Table wp_links: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_links.table.gz - 0.4 KB)
+0151.204 (0) Table wp_postmeta: Total expected rows (approximate): 2634
+0151.612 (0) Table wp_postmeta: Total rows added: 2634 in 0.39 seconds
+0151.621 (0) Table wp_postmeta: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_postmeta.table.gz - 76.1 KB)
+0151.649 (0) Table wp_posts: Total expected rows (approximate): 367
+0151.789 (0) Table wp_posts: Total rows added: 367 in 0.13 seconds
+0151.797 (0) Table wp_posts: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_posts.table.gz - 21.4 KB)
+0151.822 (0) Table wp_term_relationships: Total expected rows (approximate): 304
+0151.856 (0) Table wp_term_relationships: Total rows added: 304 in 0.03 seconds
+0151.864 (0) Table wp_term_relationships: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_term_relationships.table.gz - 1.1 KB)
+0151.889 (0) Table wp_term_taxonomy: Total expected rows (approximate): 58
+0151.915 (0) Table wp_term_taxonomy: Total rows added: 58 in 0.02 seconds
+0151.921 (0) Table wp_term_taxonomy: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_term_taxonomy.table.gz - 1 KB)
+0151.945 (0) Table wp_termmeta: Total expected rows (approximate): 72
+0151.972 (0) Table wp_termmeta: Total rows added: 72 in 0.02 seconds
+0151.978 (0) Table wp_termmeta: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_termmeta.table.gz - 0.8 KB)
+0152.010 (0) Table wp_terms: Total expected rows (approximate): 58
+0152.040 (0) Table wp_terms: Total rows added: 58 in 0.02 seconds
+0152.047 (0) Table wp_terms: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_terms.table.gz - 1 KB)
+0152.078 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 12
+0152.108 (0) Table wp_wc_product_meta_lookup: Total rows added: 12 in 0.02 seconds
+0152.115 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_wc_product_meta_lookup.table.gz - 0.6 KB)
+0152.148 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0152.167 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.01 seconds
+0152.173 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0152.202 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0152.222 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.01 seconds
+0152.229 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0152.271 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0152.291 (0) Table wp_wc_download_log: Total rows added: 0 in 0.01 seconds
+0152.301 (0) Table wp_wc_download_log: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0152.329 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0152.348 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.01 seconds
+0152.359 (0) Table wp_wc_webhooks: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0152.389 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0152.408 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.01 seconds
+0152.415 (0) Table wp_woocommerce_api_keys: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0152.475 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 2
+0152.500 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 2 in 0.02 seconds
+0152.507 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.5 KB)
+0152.564 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0152.590 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.02 seconds
+0152.596 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0152.621 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0152.643 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.01 seconds
+0152.651 (0) Table wp_woocommerce_log: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0152.689 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0152.711 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.02 seconds
+0152.717 (0) Table wp_woocommerce_order_items: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_order_items.table.gz - 0.4 KB)
+0152.742 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0152.768 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.02 seconds
+0152.783 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0152.811 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 3
+0152.833 (0) Table wp_woocommerce_sessions: Total rows added: 3 in 0.02 seconds
+0152.842 (0) Table wp_woocommerce_sessions: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_sessions.table.gz - 1.2 KB)
+0152.868 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0152.892 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.02 seconds
+0152.899 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0152.928 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0152.944 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.01 seconds
+0152.950 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0152.976 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0153.001 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.02 seconds
+0153.012 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0153.036 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0153.062 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.02 seconds
+0153.068 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0153.093 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0153.120 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.02 seconds
+0153.126 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0153.153 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_options.table.gz (1/29): adding to final database dump
+0153.210 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_users.table.gz (2/29): adding to final database dump
+0153.217 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_usermeta.table.gz (3/29): adding to final database dump
+0153.224 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_commentmeta.table.gz (4/29): adding to final database dump
+0153.231 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_comments.table.gz (5/29): adding to final database dump
+0153.239 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_links.table.gz (6/29): adding to final database dump
+0153.245 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_postmeta.table.gz (7/29): adding to final database dump
+0153.310 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_posts.table.gz (8/29): adding to final database dump
+0153.333 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_term_relationships.table.gz (9/29): adding to final database dump
+0153.342 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_term_taxonomy.table.gz (10/29): adding to final database dump
+0153.350 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_termmeta.table.gz (11/29): adding to final database dump
+0153.357 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_terms.table.gz (12/29): adding to final database dump
+0153.365 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_wc_product_meta_lookup.table.gz (13/29): adding to final database dump
+0153.371 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_order_itemmeta.table.gz (14/29): adding to final database dump
+0153.378 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_payment_tokenmeta.table.gz (15/29): adding to final database dump
+0153.385 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_wc_download_log.table.gz (16/29): adding to final database dump
+0153.396 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_wc_webhooks.table.gz (17/29): adding to final database dump
+0153.406 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_api_keys.table.gz (18/29): adding to final database dump
+0153.413 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_attribute_taxonomies.table.gz (19/29): adding to final database dump
+0153.425 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (20/29): adding to final database dump
+0153.435 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_log.table.gz (21/29): adding to final database dump
+0153.442 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_order_items.table.gz (22/29): adding to final database dump
+0153.450 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_payment_tokens.table.gz (23/29): adding to final database dump
+0153.458 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_sessions.table.gz (24/29): adding to final database dump
+0153.466 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_shipping_zone_locations.table.gz (25/29): adding to final database dump
+0153.473 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_shipping_zone_methods.table.gz (26/29): adding to final database dump
+0153.479 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_shipping_zones.table.gz (27/29): adding to final database dump
+0153.486 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_tax_rate_locations.table.gz (28/29): adding to final database dump
+0153.493 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db-table-wp_woocommerce_tax_rates.table.gz (29/29): adding to final database dump
+0153.511 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db.gz: finished writing out complete database file (296 KB)
+0153.558 (0) Total database tables backed up: 29 (backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db.gz, size: 332328, sha256)
+0153.602 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0153.607 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0153.613 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0153.619 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-others.zip: others: This file has not yet been successfully uploaded: will queue
+0153.625 (0) backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db.gz: db: This file has not yet been successfully uploaded: will queue
+0153.630 (0) Saving backup history. Total backup size: 69.6 MB
+0153.651 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0153.669 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0153.674 (0) No remote despatch: user chose no remote backup service
+0153.683 (0) Recording as successfully uploaded: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-plugins.zip
+0153.699 (0) Recording as successfully uploaded: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-themes.zip
+0153.713 (0) Recording as successfully uploaded: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-uploads.zip
+0153.729 (0) Recording as successfully uploaded: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-others.zip
+0153.743 (0) Recording as successfully uploaded: backup_2019-05-07-1215_Basketball_World_6ded1b5424fe-db.gz
+0153.777 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0153.786 (0) Number of backup sets in history: 1; groups (db): 1
+0153.791 (0) Examining (for databases) backup set with group_id=0, nonce=6ded1b5424fe, datestamp=1557231354 (May 07 2019 12:15:54)
+0153.796 (0) This backup set is the backup set just made, so will not be deleted.
+0153.797 (0) Number of backup sets in history: 1; groups (files): 1
+0153.802 (0) Examining (for files) backup set with nonce=6ded1b5424fe, datestamp=1557231354 (May 07 2019 12:15:54)
+0153.802 (0) This backup set is the backup set just made, so will not be deleted.
+0153.808 (0) This backup set is the backup set just made, so will not be deleted.
+0153.808 (0) This backup set is the backup set just made, so will not be deleted.
+0153.809 (0) This backup set is the backup set just made, so will not be deleted.
+0153.809 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0153.815 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0153.851 (0) Resume backup (6ded1b5424fe, 0): finish run
+0153.878 (0) Decremented the semaphore (fd) by 1
+0153.886 (0) Semaphore (fd) unlocked
+0153.891 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0153.911 (0) No email will/can be sent - the user has not configured an email address.
+0153.916 (0) The backup apparently succeeded and is now complete
